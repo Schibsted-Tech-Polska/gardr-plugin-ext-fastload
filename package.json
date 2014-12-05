@@ -1,0 +1,29 @@
+{
+  "name": "gardr-plugin-ext-fastload",
+  "version": "0.1.0",
+  "author": {
+    "name": "Krystian Jarmicki",
+    "email": "krystian.jarmicki@schibsted.pl"
+  },
+  "license": "MIT",
+  "description": "Gardr plugin for faster load triggering of certain resources",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Schibsted-Tech-Polska/gardr-plugin-ext-fastload"
+  },
+  "dependencies": {
+    "gardr-core-plugin": "0.0.1"
+  },
+  "keywords": [
+    "gardr",
+    "gardr-plugin",
+    "fastload"
+  ],
+  "maintainers": [
+    {
+      "name": "kjarmicki",
+      "email": "jarmicki@gmail.com"
+    }
+  ]
+}
